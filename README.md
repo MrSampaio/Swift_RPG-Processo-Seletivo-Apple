@@ -1,4 +1,3 @@
-Aqui está o **README.md formatado** corretamente para GitHub, com títulos, organização, espaçamento e blocos de código ajustados:
 
 ---
 
