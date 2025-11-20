@@ -161,11 +161,3 @@ swift main.swift
 
 ---
 
-Se quiser, posso:
-
-✅ Gerar badges
-✅ Criar imagens ASCII para o jogo
-✅ Criar uma versão em inglês
-✅ Adicionar seção de "To-Do", licenças, contribuições
-
-Só pedir! 🚀
